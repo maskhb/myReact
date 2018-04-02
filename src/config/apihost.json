@@ -1,0 +1,35 @@
+{
+  "dev.api.hd": [
+    "dev",
+    "dev.yy.hd",
+    "ht-yunying-dev.hd"
+  ],
+  "sit.api.hd": [
+    "sit",
+    "ht-yunying-sit.hd",
+    "ht-yunying-sit.htmimi.com"
+  ],
+  "ht-api-stg.htmimi.com": [
+    "stg",
+    "ht-api-stg.htmimi.com"
+  ],
+  "test.api.hd": [
+    "beta",
+    "test.yy-beta.hd",
+    "ht-yunying-test.hd",
+    "ht-yunying-test.htmimi.com"
+  ],
+  "ht-api.htmimi.com": [
+    "production",
+    "ht-yunying.htmimi.com"
+  ],
+  "fix.api.hd": [
+    "fix",
+    "test.yy-fix.hd",
+    "ht-yunying-fix.hd"
+  ],
+  "stress.api.hd": [
+    "stress",
+    "stress.yy-platform.hd"
+  ]
+}

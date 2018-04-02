@@ -1,0 +1,13 @@
+{
+  "route": {
+    "params": "",
+    "authority": ""
+  },
+  "menu": {
+    "name": "小区管理",
+    "icon": "user",
+    "order": 1,
+    "authority": ""
+  },
+  "model": [""]
+}
